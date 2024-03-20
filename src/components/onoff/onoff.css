@@ -1,0 +1,22 @@
+.onoff-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  width: 250px;
+  height: 145.83px;
+  font-size: 48px;
+  line-height: 58.51px;
+  border-radius: 6px;
+  border: 1px;
+}
+
+.oui {
+  background-color: green;
+}
+
+.non {
+  background-color: red;
+  width: 250px;
+  height: 145.83px;
+}
